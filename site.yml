@@ -48,7 +48,7 @@
       # TODO: Your code here
           url: https://storage.googleapis.com/devops-practice-files/systemd/ServicesLab-0.0.1.jar
           dest: /usr/bin/java -jar /opt/sample/service.jar
-          owner: DianaHiruk
+          owner: Krasievzena
           mode: '0644'
 
     # Find implementation in https://docs.ansible.com/ansible/latest/collections/ansible/builtin/template_module.html#examples
